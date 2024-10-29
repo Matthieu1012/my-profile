@@ -1,0 +1,87 @@
+body {
+	background-color: #F5F5F5;
+    color: #575F7D;
+    font-family: 'Arial', serif;
+    font-size: 17px;
+    font-weight: lighter;
+}
+h1, h2, {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h1 { color: #705C53; 
+	font-weight: 900;
+	letter-spacing: 2px;
+	font-size: 30px;
+}
+h2 {color: #7ECE90; 
+	font-weight: 500;
+	letter-spacing: 2px;
+	font-size: 23px;
+	font-weight: lighter;
+}
+a{
+	color:#6B72E1;
+	font-weight: bolder;
+}
+a:hover {
+	color:rgb(15, 15, 15);
+}
+.container{
+	width: 700px;
+	margin: 40px auto;
+ 
+.card-white{
+	background-color: rgba(249, 254, 254);
+	padding: 40px;
+	box-shadow: Opx 10px 30px rgba(0, 0, 0, 0.2);
+	border-radius: 4px;
+	margin: 20px 0px;
+  text-align: center;
+  padding: 15px 20px;
+
+}
+.img-circle {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.2) ;
+
+.btn-blue{
+	background-color: #6B72E1;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
+.btn-blue:hover{
+	background-color: black;
+	color: white;
+}
+.list-inline{
+	list-style: none;
+	padding-left: Opx;
+}
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+#introduction p{
+	margin-bottom: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
